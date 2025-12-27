@@ -24,12 +24,12 @@
 # 单位名称词频设置
 华鼎	hbdi	50
 唯捷	wzjx	50
-亚洲渔港	yazhgg	50
-深锂	ueml	50
-益海嘉里	yihljwli	50
+亚渔	yayu	50
+深粮	ufld	50
+益海嘉里	yihaijwli	50
 诺尔	noer	50
-茗星配	mgxypz	50
-安冰捷	ajbyjx	50
+茗星配	myxypz	50
+安冰捷	anbyjx	50
 夏晖	xwhv	50
 传胜	iuug	50
 统超	tsik	50
